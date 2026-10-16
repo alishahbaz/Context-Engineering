@@ -79,6 +79,6 @@ flowchart TD
 
 ## Start here
 
-Begin with [1. Bigger Context Windows](01-Bigger-Context-Windows), then move through the pages in order.
+Begin with [1. Bigger Context Windows](https://github.com/alishahbaz/Context-Engineering/wiki/01-Bigger-Context-Windows), then move through the pages in order.
 
-If you want the fastest summary, read the [Cheat Sheet](Cheat-Sheet) first.
+If you want the fastest summary, read the [Cheat Sheet](https://github.com/alishahbaz/Context-Engineering/wiki/Cheat-Sheet) first.
