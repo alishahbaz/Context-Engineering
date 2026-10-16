@@ -8,18 +8,18 @@ The practical fix is **context engineering**: deciding what information an agent
 
 | Page | What you learn |
 |---|---|
-| [1. Bigger Context Windows](01-Bigger-Context-Windows) | Why bigger context is not automatically better |
-| [2. Context Rot](02-Context-Rot) | Why models become less reliable as context grows |
-| [3. What Is Context Engineering?](03-What-Is-Context-Engineering) | What context engineering means and why it matters |
-| [4. Inside an Agent Context Window](04-Inside-Agent-Context-Window) | What fills up an AI agent’s context window |
-| [5. Context Poisoning](05-Context-Poisoning) | How wrong information becomes “truth” |
-| [6. Context Distraction](06-Context-Distraction) | How long history derails agent behavior |
-| [7. Context Confusion](07-Context-Confusion) | Why too many tools reduce accuracy |
-| [8. Context Clash](08-Context-Clash) | How conflicting information breaks reasoning |
-| [9. Context Engineering Fixes](09-Context-Engineering-Fixes) | Validate, compact, curate, and prune |
-| [10. Key Lesson](10-Key-Lesson) | Why less context can produce better agents |
-| [Cheat Sheet](Cheat-Sheet) | One-page summary |
-| [Glossary](Glossary) | Key terms |
+| [1. Bigger Context Windows](https://github.com/alishahbaz/Context-Engineering/wiki/01-Bigger-Context-Windows) | Why bigger context is not automatically better |
+| [2. Context Rot](https://github.com/alishahbaz/Context-Engineering/wiki/02-Context-Rot) | Why models become less reliable as context grows |
+| [3. What Is Context Engineering?](https://github.com/alishahbaz/Context-Engineering/wiki/03-What-Is-Context-Engineering) | What context engineering means and why it matters |
+| [4. Inside an Agent Context Window](https://github.com/alishahbaz/Context-Engineering/wiki/04-Inside-Agent-Context-Window) | What fills up an AI agent’s context window |
+| [5. Context Poisoning](https://github.com/alishahbaz/Context-Engineering/wiki/05-Context-Poisoning) | How wrong information becomes “truth” |
+| [6. Context Distraction](https://github.com/alishahbaz/Context-Engineering/wiki/06-Context-Distraction) | How long history derails agent behavior |
+| [7. Context Confusion](https://github.com/alishahbaz/Context-Engineering/wiki/07-Context-Confusion) | Why too many tools reduce accuracy |
+| [8. Context Clash](https://github.com/alishahbaz/Context-Engineering/wiki/08-Context-Clash) | How conflicting information breaks reasoning |
+| [9. Context Engineering Fixes](https://github.com/alishahbaz/Context-Engineering/wiki/09-Context-Engineering-Fixes) | Validate, compact, curate, and prune |
+| [10. Key Lesson](https://github.com/alishahbaz/Context-Engineering/wiki/10-Key-Lesson) | Why less context can produce better agents |
+| [Cheat Sheet](https://github.com/alishahbaz/Context-Engineering/wiki/Cheat-Sheet) | One-page summary |
+| [Glossary](https://github.com/alishahbaz/Context-Engineering/wiki/Glossary) | Key terms |
 
 ## Big picture
 
