@@ -8,7 +8,7 @@ The practical fix is **context engineering**: deciding what information an agent
 
 | Page | What you learn |
 |---|---|
-| [1. Bigger Context Windows](/wiki/01-Bigger-Context-Windows) | Why bigger context is not automatically better |
+| [1. Bigger Context Windows](wiki/01-Bigger-Context-Windows) | Why bigger context is not automatically better |
 | [2. Context Rot](02-Context-Rot) | Why models become less reliable as context grows |
 | [3. What Is Context Engineering?](03-What-Is-Context-Engineering) | What context engineering means and why it matters |
 | [4. Inside an Agent Context Window](04-Inside-Agent-Context-Window) | What fills up an AI agent’s context window |
